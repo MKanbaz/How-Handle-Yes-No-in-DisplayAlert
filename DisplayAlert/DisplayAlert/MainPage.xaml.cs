@@ -26,7 +26,7 @@ namespace DisplayAlert
             }
             else
             {
-                 await DisplayAlert("No", "Cancelled", "Oky");
+                 await DisplayAlert("No", "Cancelled", "Oky"); 
 
             }
         }
